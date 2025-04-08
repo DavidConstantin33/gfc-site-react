@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'Sakana';
-  src: url('/public/font/Sakana.ttf') format('ttf');
+  src: url('./font/Sakana.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
