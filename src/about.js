@@ -2,9 +2,9 @@ import { useState } from "react";
 
 export default function About() {
     const images = [
-        { src: "/media/img1.png", alt: "Antrenament MMA" },
-        { src: "/media/img2.png", alt: "Luptători în ring" },
-        { src: "/media/img3.png", alt: "Echipa Gedo Fight Club" },
+        { src: "/media/img1.PNG", alt: "Antrenament MMA" },
+        { src: "/media/img2.PNG", alt: "Luptători în ring" },
+        { src: "/media/img3.PNG", alt: "Echipa Gedo Fight Club" },
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);
